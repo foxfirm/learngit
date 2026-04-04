@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 Switch dev
 git stash test
 test in 20260404
+in master tips new featrue1
